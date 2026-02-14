@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "timestamp": "ISO8601",
+  "uuid": "string",
+  "device": "string",
+  "input": "string",
+  "hash": "md5",
+  "layer": "intake",
+  "status": "raw"
+}
